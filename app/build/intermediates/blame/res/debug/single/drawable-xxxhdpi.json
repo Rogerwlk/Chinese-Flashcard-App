@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_restart.png",
+        "source": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_restart.png"
+    },
+    {
+        "merged": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_dissatisfied.png",
+        "source": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dissatisfied.png"
+    },
+    {
+        "merged": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_next.png",
+        "source": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_satisfied.png",
+        "source": "C:\\Users\\lkwan\\AndroidStudioProjects\\ChineseFlashcards\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_satisfied.png"
+    }
+]
